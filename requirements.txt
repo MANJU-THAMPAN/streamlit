@@ -1,0 +1,7 @@
+matplotlib
+pandas
+plotly
+prophet
+streamlit
+streamlit_option_menu
+yfinance
